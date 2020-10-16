@@ -6,8 +6,10 @@
   "scripts": {
     "dev": "npm run build-CSS -- --watch",
     "build": "npm run build-CSS && npm run post-CSS",
-    "build-CSS": "node-sass ./src/style.scss style.css",
-    "post-CSS": "postcss --no-map --output style.css style.css"
+    "build-CSS": "npm run build-CSS:yasmina && npm run build-CSS:mariana",
+    "build-CSS:yasmina": "node-sass ./yasmina/style.scss ./yasmina/style.css",
+    "build-CSS:mariana": "node-sass ./mariana/style.scss ./mariana/style.css",
+    "post-CSS": "postcss --output ./mariana/style.css ./mariana/style.css && postcss --output ./yasmina/style.css ./yasmina/style.css"
   },
   "repository": {
     "type": "git",
@@ -19,7 +21,6 @@
     "url": "https://github.com/GMartigny/jaipasdevoiture/issues"
   },
   "homepage": "https://github.com/GMartigny/jaipasdevoiture#readme",
-  "dependencies": {},
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "bulma": "^0.9.1",
