@@ -1,20 +1,61 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css";
 
-html {
-    overflow-y: auto;
+h2 {
+    font-weight: bold;
+}
+
+#top-action button {
+    border: none;
 }
 
 #renting {
     height: 400px;
+    background-image: url(baniere.png);
 }
 
 .block-list {
     display: flex;
-    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    overflow: auto;
 }
 .block-list li {
-    width: 200px;
-    line-height: 160px;
+    flex: 0 0 200px;
+    line-height: 130px;
     background-color: #444;
     color: #fff;
+}
+
+#who-are-we {
+    background-color: #eefff4;
+}
+
+#some-figures {
+    background-color: #fdf6eb;
+}
+
+#prices {
+    background-color: #ebf7f4;
+}
+
+#call-to-action {
+    background-color: #eefff4;
+    border: none;
+}
+
+#services {
+    background-color: #ebf7f4;
+}
+#services li {
+    position: relative;
+}
+#services li::before {
+    content: "";
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    background-color: #999;
+    border-radius: 50%;
+    left: -1.5em;
+    top: 4px;
 }
