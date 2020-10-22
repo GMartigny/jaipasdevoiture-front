@@ -1,0 +1,631 @@
+#iPadAirmin {
+  width: 1024px;
+  height: 1997px;
+}
+
+#partagedev {
+  width: 1024px;
+  height: 467px;
+}
+
+#tarifs {
+  width: 212px;
+  height: 53px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 53px;
+  text-align: center;
+}
+
+#passonslev {
+  width: 1024px;
+  height: 492px;
+}
+
+#rectangle {
+  width: 1024px;
+  height: 152px;
+  background: #fde4f0;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#jaipasdevo {
+  width: 306px;
+  height: 112px;
+  text-shadow: 0px 4px 4px #ffffff;
+  text-shadow: inset 0px 1px 3px #686868;
+  font-family: Sacramento;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 93px;
+}
+
+#locationde {
+  width: 597px;
+  height: 85px;
+  font-family: "Script MT";
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 34px;
+  text-align: right;
+}
+
+#symbolInst {
+  width: 1024px;
+  height: 73px;
+}
+
+#surface {
+  width: 1024px;
+  height: 63.88px;
+  background: #fafafa;
+}
+
+#sURFACECOL {
+  width: 1024px;
+  height: 63.88px;
+}
+
+#tonalPalet {
+  width: 1024px;
+  height: 63.88px;
+}
+
+#tonalPalet {
+  width: 1024px;
+  height: 63.88px;
+}
+
+#rectangle1 {
+  width: 1024px;
+  height: 63.88px;
+  background: #ffffff;
+}
+
+#hEADLINE6C {
+  width: 714px;
+  height: 24px;
+}
+
+#headline6 {
+  width: 714px;
+  height: 48px;
+  color: rgba(0,0,0,0.87);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.25px;
+}
+
+#iCONS {
+  width: 1024px;
+  height: 40px;
+}
+
+#icon3 {
+  width: 24px;
+  height: 24px;
+}
+
+#mask {
+  width: 17.49px;
+  height: 17.49px;
+  transform: scaleY(-1);
+}
+
+#iconColor {
+  width: 24px;
+  height: 24px;
+}
+
+#rectangle {
+  width: 24px;
+  height: 24px;
+  background: rgba(0,0,0,0.54);
+}
+
+#icon2 {
+  width: 24px;
+  height: 24px;
+}
+
+#mask {
+  width: 20px;
+  height: 18.35px;
+}
+
+#iconColor {
+  width: 24px;
+  height: 24px;
+}
+
+#rectangle {
+  width: 24px;
+  height: 24px;
+  background: rgba(0,0,0,0.54);
+}
+
+#icon1 {
+  width: 24px;
+  height: 24px;
+}
+
+#mask {
+  width: 18px;
+  height: 19.92px;
+}
+
+#iconColor {
+  width: 24px;
+  height: 24px;
+}
+
+#rectangle {
+  width: 24px;
+  height: 24px;
+  background: rgba(0,0,0,0.54);
+}
+
+#menuIcon {
+  width: 24px;
+  height: 24px;
+}
+
+#mask {
+  width: 18px;
+  height: 12px;
+}
+
+#iconColor {
+  width: 24px;
+  height: 24px;
+}
+
+#rectangle {
+  width: 24px;
+  height: 24px;
+  background: rgba(0,0,0,0.54);
+}
+
+#rectangle {
+  width: 1024px;
+  height: 313px;
+  background: #fedee9;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#rectangle3 {
+  width: 1024px;
+  height: 262px;
+  background: linear-gradient(180deg, #E4E4E6, #ECDDDD);
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#onoustrouv {
+  width: 200.12px;
+  height: 50.03px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 53px;
+  text-align: center;
+}
+
+#ilsnousfon {
+  width: 272.81px;
+  height: 56.64px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 53px;
+  text-align: center;
+}
+
+#chifresCls {
+  width: 161.42px;
+  height: 63.25px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 53px;
+  text-align: center;
+}
+
+#cren1863Ja {
+  width: 924px;
+  height: 162px;
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: justify;
+}
+
+#quisommesn {
+  width: 244px;
+  height: 58.71px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 53px;
+}
+
+#jaipasdevo {
+  width: 306px;
+  height: 112px;
+  text-shadow: 0px 4px 4px #ffffff;
+  text-shadow: inset 0px 1px 3px #686868;
+  font-family: Sacramento;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 93px;
+}
+
+#symbolInst {
+  width: 138px;
+  height: 40px;
+}
+
+#surface {
+  width: 138px;
+  height: 40px;
+}
+
+#cONTAINERC {
+  opacity: 0.12;
+  width: 138px;
+  height: 40px;
+}
+
+#rectangle {
+  width: 138px;
+  height: 40px;
+  background: rgba(0,0,0,0.38);
+}
+
+#tEXTCOLORS {
+  width: 106px;
+  height: 16px;
+}
+
+#button {
+  width: 106px;
+  height: 16px;
+  color: rgba(0,0,0,0.38);
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+}
+
+#facebookic {
+  width: 44px;
+  height: 44px;
+}
+
+#background {
+  width: 44px;
+  height: 44px;
+}
+
+#shape {
+  width: 36.96px;
+  height: 36.96px;
+  background:}
+
+#instagrami {
+  width: 44px;
+  height: 44px;
+}
+
+#background {
+  width: 44px;
+  height: 44px;
+}
+
+#shape {
+  width: 38.72px;
+  height: 38.72px;
+  background:}
+
+#twitterico {
+  width: 44px;
+  height: 44px;
+}
+
+#background {
+  width: 44px;
+  height: 44px;
+}
+
+#shape {
+  width: 43.31px;
+  height: 35.19px;
+  background:}
+
+#phoneicon {
+  width: 43px;
+  height: 43px;
+}
+
+#avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+#plusde100. {
+  width: 279.26px;
+  height: 136.61px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+#symbolInst {
+  width: 166.14px;
+  height: 27.38px;
+}
+
+#background {
+  width: 166.14px;
+  height: 27.38px;
+}
+
+#color {
+  width: 166.14px;
+  height: 27.38px;
+  background: #ffffff;
+}
+
+#seperator {
+  width: 166.14px;
+  height: 0.62px;
+}
+
+#color {
+  width: 166.14px;
+  height: 0.5px;
+  background: rgba(60,60,67,0.29);
+}
+
+#cursor {
+  width: 0.89px;
+  height: 13.07px;
+}
+
+#cursor {
+  width: 2px;
+  height: 13.07px;
+  border-radius: 2px;
+  background: #007aff;
+}
+
+#text {
+  width: 85px;
+  height: 22px;
+  color: rgba(60,60,67,0.3);
+  font-family: "SFProText-Regular";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.408px;
+}
+
+#googleMaps {
+  width: 54.75px;
+  height: 54.75px;
+}
+
+#background {
+  width: 54.75px;
+  height: 54.75px;
+}
+
+#shape {
+  width: 41.06px;
+  height: 41.06px;
+  background: #1c9957;
+}
+
+#shape {
+  width: 34.48px;
+  height: 18.25px;
+  background: #3e7bf1;
+}
+
+#shape {
+  width: 18.25px;
+  height: 34.48px;
+  background: #cbccc9;
+}
+
+#shape {
+  width: 21.67px;
+  height: 21.67px;
+  background: #efefef;
+}
+
+#shape {
+  width: 41.06px;
+  height: 41.06px;
+  background: #ffd73d;
+}
+
+#shape {
+  width: 22.81px;
+  height: 35.36px;
+  background: #d73f35;
+}
+
+#shape {
+  width: 7.98px;
+  height: 7.98px;
+  background: #752622;
+}
+
+#shape {
+  width: 12.31px;
+  height: 12.55px;
+  background: #ffffff;
+}
+
+#systmeUDmn {
+  width: 281.31px;
+  height: 129.33px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+#vlo8joursP {
+  width: 360px;
+  height: 237px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+}
+
+#camionette {
+  width: 360px;
+  height: 194px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+}
+
+#rectangle3 {
+  width: 1024px;
+  height: 246px;
+  background: linear-gradient(180deg, #E4E4E6, #FECCC9);
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#message {
+  width: 122.97px;
+  height: 30.38px;
+  font-family: "Old Standard TT";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: center;
+}
+
+#nom {
+  width: 65px;
+  height: 30.38px;
+  font-family: "Old Standard TT";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+#textInput {
+  width: 237px;
+  height: 48.68px;
+}
+
+#background {
+  width: 237px;
+  height: 48.68px;
+  border-radius: 4px;
+  border: solid 1px #c8c9cc;
+  background: #ffffff;
+}
+
+#default {
+  width: 220.12px;
+  height: 20px;
+  color: #81858b;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3px;
+}
+
+#textInput2 {
+  width: 237px;
+  height: 86.04px;
+}
+
+#background {
+  width: 237px;
+  height: 86.04px;
+  border-radius: 4px;
+  border: solid 1px #c8c9cc;
+  background: #ffffff;
+}
+
+#default {
+  width: 220.12px;
+  height: 20px;
+  color: #81858b;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3px;
+}
+
+#button {
+  width: 58.11px;
+  height: 17.26px;
+}
+
+#label {
+  width: 130px;
+  height: 17px;
+  color: #252525;
+  font-family: "SFProText-Regular";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: -0.08px;
+}
+
+#path {
+  width: 13.12px;
+  height: 16.11px;
+  border-radius: 3px;
+  border: solid 0,5px rgba(0,0,0,0.2);
+  background: #ffffff;
+  box-shadow: inset 0px 0.5px 1.5px rgba(0,0,0,0.38);
+}
+
+#soutien {
+  width: 70.53px;
+  height: 70.53px;
+}
+
+#nousContac {
+  width: 212px;
+  height: 53px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 53px;
+  text-align: center;
+}

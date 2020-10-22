@@ -1,0 +1,20 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css";
+
+html {
+    overflow-y: auto;
+}
+
+#renting {
+    height: 400px;
+}
+
+.block-list {
+    display: flex;
+    justify-content: center;
+}
+.block-list li {
+    width: 200px;
+    line-height: 160px;
+    background-color: #444;
+    color: #fff;
+}

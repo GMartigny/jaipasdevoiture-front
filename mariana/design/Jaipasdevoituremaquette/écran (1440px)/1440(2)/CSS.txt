@@ -1,0 +1,583 @@
+#macBookPro {
+  width: 1440px;
+  height: 2900px;
+}
+
+#partagedev {
+  width: 1440px;
+  height: 737.02px;
+}
+
+#partagedev {
+  width: 1442px;
+  height: 192px;
+  box-shadow: 0px 2px 4px
+  box-shadow: inset 0px 1px 3px rgba(100,100,100,0.5);
+}
+
+#rectangle {
+  width: 1440px;
+  height: 415px;
+  background: #fedee9;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#rectangle {
+  width: 1440px;
+  height: 213.75px;
+  background: #fde4f0;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#jaipasdevo {
+  width: 376px;
+  height: 150px;
+  text-shadow: 0px 4px 4px #ffffff;
+  text-shadow: inset 0px 1px 3px #686868;
+  font-family: Sacramento;
+  font-size: 80px;
+  font-weight: 400;
+  line-height: 117px;
+}
+
+#locationde {
+  width: 839.53px;
+  height: 119.53px;
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+  text-align: right;
+}
+
+#facebookic {
+  width: 61.88px;
+  height: 61.88px;
+}
+
+#background {
+  width: 61.88px;
+  height: 61.88px;
+}
+
+#shape {
+  width: 51.97px;
+  height: 51.97px;
+  background:}
+
+#instagrami {
+  width: 61.88px;
+  height: 61.88px;
+}
+
+#background {
+  width: 61.88px;
+  height: 61.88px;
+}
+
+#shape {
+  width: 54.45px;
+  height: 54.45px;
+  background:}
+
+#twitterico {
+  width: 61.88px;
+  height: 61.88px;
+}
+
+#background {
+  width: 61.88px;
+  height: 61.88px;
+}
+
+#shape {
+  width: 60.9px;
+  height: 49.48px;
+  background:}
+
+#phoneicon {
+  width: 60.47px;
+  height: 60.47px;
+}
+
+#passonslev {
+  width: 1446px;
+  height: 664.05px;
+}
+
+#symbolInst {
+  width: 263px;
+  height: 60.5px;
+}
+
+#icon3 {
+  width: 24px;
+  height: 24px;
+}
+
+#mask {
+  width: 18px;
+  height: 19.92px;
+}
+
+#iconColor {
+  width: 24px;
+  height: 24px;
+}
+
+#rectangle {
+  width: 24px;
+  height: 24px;
+  background: rgba(0,0,0,0.54);
+}
+
+#icon2 {
+  width: 24px;
+  height: 24px;
+}
+
+#mask {
+  width: 20.01px;
+  height: 20px;
+}
+
+#iconColor {
+  width: 24px;
+  height: 24px;
+}
+
+#rectangle {
+  width: 24px;
+  height: 24px;
+  background: rgba(0,0,0,0.54);
+}
+
+#icon1 {
+  width: 24px;
+  height: 24px;
+}
+
+#mask {
+  width: 20px;
+  height: 18.35px;
+}
+
+#iconColor {
+  width: 24px;
+  height: 24px;
+}
+
+#rectangle {
+  width: 24px;
+  height: 24px;
+  background: rgba(0,0,0,0.54);
+}
+
+#jaipasdevo {
+  width: 309px;
+  height: 106px;
+  text-shadow: 0px 4px 4px #ffffff;
+  text-shadow: inset 0px 1px 3px #686868;
+  font-family: Sacramento;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 93px;
+}
+
+#cren1863Ja {
+  width: 924px;
+  height: 162px;
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: justify;
+}
+
+#quisommesn {
+  width: 283px;
+  height: 57.71px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 70px;
+}
+
+#avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+#symbolInst {
+  width: 138px;
+  height: 40px;
+}
+
+#footprint {
+  width: 138px;
+  height: 40px;
+  background: rgba(0,0,0,0.1);
+}
+
+#menuitem {
+  width: 40px;
+  height: 20px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+}
+
+#rectangle3 {
+  width: 1441px;
+  height: 343px;
+  background: linear-gradient(180deg, #E4E4E6, #ECDDDD);
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#rectangle4 {
+  width: 1441px;
+  height: 100px;
+  background: #fedee9;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#onoustrouv {
+  width: 381px;
+  height: 71.03px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 70px;
+  text-align: center;
+}
+
+#symbolInst {
+  width: 192.14px;
+  height: 49.38px;
+}
+
+#background {
+  width: 192.14px;
+  height: 49.38px;
+}
+
+#color {
+  width: 192.14px;
+  height: 49.38px;
+  background: #ffffff;
+}
+
+#seperator {
+  width: 192.14px;
+  height: 1.12px;
+}
+
+#color {
+  width: 192.14px;
+  height: 0.5px;
+  background: rgba(60,60,67,0.29);
+}
+
+#cursor {
+  width: 1.02px;
+  height: 23.57px;
+}
+
+#cursor {
+  width: 2px;
+  height: 23.57px;
+  border-radius: 2px;
+  background: #007aff;
+}
+
+#text {
+  width: 85px;
+  height: 22px;
+  color: rgba(60,60,67,0.3);
+  font-family: "SFProText-Regular";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.408px;
+}
+
+#googleMaps {
+  width: 54.75px;
+  height: 54.75px;
+}
+
+#background {
+  width: 54.75px;
+  height: 54.75px;
+}
+
+#shape {
+  width: 41.06px;
+  height: 41.06px;
+  background: #1c9957;
+}
+
+#shape {
+  width: 34.48px;
+  height: 18.25px;
+  background: #3e7bf1;
+}
+
+#shape {
+  width: 18.25px;
+  height: 34.48px;
+  background: #cbccc9;
+}
+
+#shape {
+  width: 21.67px;
+  height: 21.67px;
+  background: #efefef;
+}
+
+#shape {
+  width: 41.06px;
+  height: 41.06px;
+  background: #ffd73d;
+}
+
+#shape {
+  width: 22.81px;
+  height: 35.36px;
+  background: #d73f35;
+}
+
+#shape {
+  width: 7.98px;
+  height: 7.98px;
+  background: #752622;
+}
+
+#shape {
+  width: 12.31px;
+  height: 12.55px;
+  background: #ffffff;
+}
+
+#rectangle {
+  width: 1440px;
+  height: 350px;
+  background: linear-gradient(180deg, #E4E4E6, #FECCC9);
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#textInput3 {
+  width: 245px;
+  height: 48.68px;
+}
+
+#background {
+  width: 245px;
+  height: 48.68px;
+  border-radius: 4px;
+  border: solid 1px #c8c9cc;
+  background: #ffffff;
+}
+
+#default {
+  width: 228.04px;
+  height: 20px;
+  color: #81858b;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3px;
+}
+
+#message {
+  width: 122.97px;
+  height: 30.38px;
+  font-family: "Old Standard TT";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: center;
+}
+
+#nom {
+  width: 65px;
+  height: 30.38px;
+  font-family: "Old Standard TT";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: center;
+}
+
+#textInput2 {
+  width: 297px;
+  height: 85px;
+}
+
+#background {
+  width: 297px;
+  height: 85px;
+  border-radius: 4px;
+  border: solid 1px #c8c9cc;
+  background: #ffffff;
+}
+
+#default {
+  width: 279.53px;
+  height: 20px;
+  color: #81858b;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3px;
+}
+
+#button {
+  width: 92.11px;
+  height: 25.26px;
+}
+
+#label {
+  width: 130px;
+  height: 17px;
+  color: #252525;
+  font-family: "SFProText-Regular";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: -0.08px;
+}
+
+#path {
+  width: 20.8px;
+  height: 23.58px;
+  border-radius: 3px;
+  border: solid 0,5px rgba(0,0,0,0.2);
+  background: #ffffff;
+  box-shadow: inset 0px 0.5px 1.5px rgba(0,0,0,0.38);
+}
+
+#soutien {
+  width: 84.53px;
+  height: 84.53px;
+}
+
+#camionette {
+  width: 360px;
+  height: 194px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+}
+
+#vlo8joursP {
+  width: 360px;
+  height: 237px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+}
+
+#tarifs {
+  width: 212px;
+  height: 70px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 70px;
+  text-align: center;
+}
+
+#symbolInst {
+  width: 27px;
+  height: 32px;
+}
+
+#mask {
+  width: 20.25px;
+  height: 16px;
+}
+
+#iconColor {
+  width: 27px;
+  height: 32px;
+}
+
+#rectangle {
+  width: 27px;
+  height: 32px;
+  background: rgba(0,0,0,0.54);
+}
+
+#plusde100. {
+  width: 279.26px;
+  height: 136.61px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+#chifresCls {
+  width: 294.42px;
+  height: 87px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 70px;
+  text-align: center;
+}
+
+#systmeUDmn {
+  width: 281.31px;
+  height: 129.33px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+#ilsnousfon {
+  width: 416.81px;
+  height: 48.64px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 70px;
+  text-align: center;
+}
+
+#nousContac {
+  width: 398px;
+  height: 70px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: Sacramento;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 70px;
+  text-align: center;
+}
+
+#valuationd {
+  width: 611.15px;
+  height: 406.78px;
+}

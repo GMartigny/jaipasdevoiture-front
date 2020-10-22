@@ -1,0 +1,305 @@
+#macBookPro {
+  width: 1440px;
+  height: 1997px;
+}
+
+#fondpastel {
+  width: 1440px;
+  height: 960px;
+}
+
+#rectangle2 {
+  width: 1440px;
+  height: 324px;
+  background: linear-gradient(180deg, #B8EEEC, #BBCCF1, #F5C09BDE);
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.2);
+}
+
+#valuationd {
+  width: 611.15px;
+  height: 406.78px;
+}
+
+#rectangle3 {
+  width: 1440px;
+  height: 612px;
+  background: #fde4f0;
+}
+
+#rectangle {
+  width: 1440px;
+  height: 148.6px;
+  background: linear-gradient(180deg, #B8EEEC, #BBCCF1, #F1A4C6, #F5C09BDE);
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+#commentsic {
+  width: 48px;
+  height: 48px;
+}
+
+#caricon {
+  width: 52px;
+  height: 52px;
+}
+
+#comboChart {
+  width: 52px;
+  height: 52px;
+}
+
+#handshakei {
+  width: 52px;
+  height: 52px;
+}
+
+#quisommesn {
+  width: 266px;
+  height: 58px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+}
+
+#quisommesn {
+  width: 266px;
+  height: 58px;
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+}
+
+#onoustrouv {
+  width: 255.83px;
+  height: 50.86px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+}
+
+#cren1863Ja {
+  width: 1029px;
+  height: 208px;
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+  font-family: "Old Standard TT";
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 33px;
+  text-align: center;
+}
+
+#chifresCls {
+  width: 176px;
+  height: 42.86px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+  text-align: right;
+}
+
+#ilsnousfon {
+  width: 366px;
+  height: 52px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+}
+
+#tarifs {
+  width: 129.01px;
+  height: 42px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+  text-align: right;
+}
+
+#nouscontac {
+  width: 245px;
+  height: 55.86px;
+  -webkit-text-stroke: solid 0,5px 
+  font-family: "Script MT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+  text-align: right;
+}
+
+#jaipasdevo {
+  width: 350px;
+  height: 121px;
+  text-shadow: 0px 4px 4px #ffffff;
+  text-shadow: inset 0px 1px 3px #686868;
+  font-family: Sacramento;
+  font-size: 72px;
+  font-weight: 400;
+  line-height: 105px;
+}
+
+#autostoppe {
+  width: 203.33px;
+  height: 152.5px;
+}
+
+#accslempla {
+  width: 359px;
+  height: 203.43px;
+}
+
+#plusde100. {
+  width: 374px;
+  height: 242px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 33px;
+}
+
+#systmeUDmn {
+  width: 374px;
+  height: 238px;
+  text-shadow: 5px 4px 4px
+  font-family: "Old Standard TT";
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 33px;
+}
+
+#vlo8joursP {
+  width: 1202px;
+  height: 304px;
+  text-shadow: 0px 2px 4px #686868;
+  font-family: "Old Standard TT";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 37px;
+  text-align: center;
+}
+
+#message {
+  width: 192.5px;
+  height: 42px;
+  font-family: "Old Standard TT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+}
+
+#nom {
+  width: 192.5px;
+  height: 42px;
+  font-family: "Old Standard TT";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+}
+
+#textInput {
+  width: 309px;
+  height: 41.7px;
+}
+
+#background {
+  width: 309px;
+  height: 41.7px;
+  border-radius: 4px;
+  border: solid 1px #c8c9cc;
+  background: #ffffff;
+}
+
+#default {
+  width: 291.41px;
+  height: 20px;
+  color: #81858b;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3px;
+}
+
+#textInput2 {
+  width: 371px;
+  height: 65.7px;
+}
+
+#background {
+  width: 371px;
+  height: 65.7px;
+  border-radius: 4px;
+  border: solid 1px #c8c9cc;
+  background: #ffffff;
+}
+
+#default {
+  width: 352.79px;
+  height: 20px;
+  color: #81858b;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3px;
+}
+
+#button {
+  width: 100.34px;
+  height: 29.8px;
+}
+
+#label {
+  width: 130px;
+  height: 17px;
+  color: #252525;
+  font-family: "SFProText-Regular";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: -0.08px;
+}
+
+#path {
+  width: 22.66px;
+  height: 27.82px;
+  border-radius: 3px;
+  border: solid 0,5px rgba(0,0,0,0.2);
+  background: #ffffff;
+  box-shadow: inset 0px 0.5px 1.5px rgba(0,0,0,0.38);
+}
+
+#soutien {
+  width: 121.8px;
+  height: 121.8px;
+}
+
+#a {
+  width: 230px;
+  height: 42px;
+  color: #333333;
+  font-family: "Old Standard TT";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+#phoneicon {
+  width: 42px;
+  height: 42px;
+}
+
+#addressico {
+  width: 42px;
+  height: 42px;
+}
